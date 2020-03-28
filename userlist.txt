@@ -7,3 +7,4 @@ Luci:LuciCS:94095a7a-be59-4af0-9318-ae70bf6dab0e
 Filip:FilipXD:9dbdac80-9f7a-4dc2-8031-89fcb488bdf0
 Kraken:KrakenXD:1e5c3079-7f11-4c16-80ee-472375368470
 Chewy:Chewy:d1782306-f0c9-4462-aeeb-9cfdfc0a0e23
+autistas:autistas:739da13d-38fc-4ed4-acd1-556ddd161c9d
